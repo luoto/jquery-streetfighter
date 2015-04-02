@@ -50,7 +50,7 @@ body {
 }
 
 .hadouken {
-    background-image: url('../images/hadouken.gif');
+    background-image: url('../images/hadouken.png');
     float: left;
     width: 156px;
     height: 90px;
@@ -58,7 +58,7 @@ body {
     position: absolute;
     z-index: 10;
     top: 170px;
-    left: 493px;
+    left: 520px;
 }
 
 /*=================*/
